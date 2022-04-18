@@ -1,0 +1,11 @@
+C:\Users\Ryen Zhu\Desktop\homework\LabAss2\bin\Debug\LabAss2.exe.config
+C:\Users\Ryen Zhu\Desktop\homework\LabAss2\bin\Debug\LabAss2.exe
+C:\Users\Ryen Zhu\Desktop\homework\LabAss2\bin\Debug\LabAss2.pdb
+C:\Users\Ryen Zhu\Desktop\homework\LabAss2\obj\Debug\LabAss2.csproj.AssemblyReference.cache
+C:\Users\Ryen Zhu\Desktop\homework\LabAss2\obj\Debug\LabAss2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ryen Zhu\Desktop\homework\LabAss2\obj\Debug\LabAss2.Form1.resources
+C:\Users\Ryen Zhu\Desktop\homework\LabAss2\obj\Debug\LabAss2.Properties.Resources.resources
+C:\Users\Ryen Zhu\Desktop\homework\LabAss2\obj\Debug\LabAss2.csproj.GenerateResource.cache
+C:\Users\Ryen Zhu\Desktop\homework\LabAss2\obj\Debug\LabAss2.csproj.CoreCompileInputs.cache
+C:\Users\Ryen Zhu\Desktop\homework\LabAss2\obj\Debug\LabAss2.exe
+C:\Users\Ryen Zhu\Desktop\homework\LabAss2\obj\Debug\LabAss2.pdb
