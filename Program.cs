@@ -32,7 +32,8 @@ namespace ZhuRui_0516AllLabApp
             }
             if (valid) Console.WriteLine("Result is: " + result);
             else Console.WriteLine("Invalid operator! ");
-
+            //输入int字符结尾
+            Console.Read();
         }
     }
 }
